@@ -1,0 +1,14 @@
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\VKU\IV\donet\lab1\bin\Debug\net8.0\lab1.exe
+D:\VKU\IV\donet\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\VKU\IV\donet\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\VKU\IV\donet\lab1\bin\Debug\net8.0\lab1.dll
+D:\VKU\IV\donet\lab1\bin\Debug\net8.0\lab1.pdb
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.dll
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.pdb
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\VKU\IV\donet\lab1\obj\Debug\net8.0\ref\lab1.dll
