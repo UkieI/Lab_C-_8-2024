@@ -1,0 +1,15 @@
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.AssemblyInfoInputs.cache
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.AssemblyInfo.cs
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.csproj.CoreCompileInputs.cache
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.sourcelink.json
+D:\VKU\IV\donet\lab4\bin\Debug\net8.0\lab4.exe
+D:\VKU\IV\donet\lab4\bin\Debug\net8.0\lab4.deps.json
+D:\VKU\IV\donet\lab4\bin\Debug\net8.0\lab4.runtimeconfig.json
+D:\VKU\IV\donet\lab4\bin\Debug\net8.0\lab4.dll
+D:\VKU\IV\donet\lab4\bin\Debug\net8.0\lab4.pdb
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.dll
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\refint\lab4.dll
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.pdb
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\lab4.genruntimeconfig.cache
+D:\VKU\IV\donet\lab4\obj\Debug\net8.0\ref\lab4.dll

@@ -1,12 +1,14 @@
 ﻿
-namespace Lab2
+
+namespace Lab3
 {
+    
     class Program
     {
         static void Main(string[] args)
         {
-         
-            Ex4.Run();
+     
+
         }
     }
 

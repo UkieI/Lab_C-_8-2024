@@ -1,0 +1,15 @@
+D:\VKU\IV\donet\demo\bin\Debug\net8.0\demo.exe
+D:\VKU\IV\donet\demo\bin\Debug\net8.0\demo.deps.json
+D:\VKU\IV\donet\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+D:\VKU\IV\donet\demo\bin\Debug\net8.0\demo.dll
+D:\VKU\IV\donet\demo\bin\Debug\net8.0\demo.pdb
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.sourcelink.json
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.dll
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\refint\demo.dll
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.pdb
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+D:\VKU\IV\donet\demo\obj\Debug\net8.0\ref\demo.dll

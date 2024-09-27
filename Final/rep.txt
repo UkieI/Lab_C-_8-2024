@@ -1,0 +1,18 @@
+Quản lý độ dùng dạy học
+DDDH -> 	Id, Tên DDDH
+(Tuần)
+
+Quản lý thời khóa biểu giảng dạy.
+(Thứ)
+	-> Quản lý môn học trong tkb
+	Môn học trong thời khóa biểu: ? 
+
+
+Quản lý môn học giảng dạy
+Môn học -> 	Id, Tên Môn học, 
+	-> 	Quản lý Nội dung tiết học.
+	Nội dùng tiết học -> id, tên nội dung (Tuần dạy, Số thứ tự tiết)
+		
+	
+
+-> IN RA CHƯƠNG TRÌNH GIẢNG DẠY THEO MẪU
